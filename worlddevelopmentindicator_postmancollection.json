@@ -1,0 +1,1108 @@
+{
+  "info": {
+    "name": "World Development Indicators API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Indicators - Indonesia",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Indonesia&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Indonesia"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - United States",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=United States&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "United States"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - China",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=China&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "China"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Japan",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Japan&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Japan"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Germany",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Germany&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Germany"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - India",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=India&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "India"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Brazil",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Brazil&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Brazil"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Russia",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Russia&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Russia"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - South Korea",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=South Korea&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "South Korea"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Australia",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Australia&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Australia"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Canada",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Canada&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Canada"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Mexico",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Mexico&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Mexico"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - United Kingdom",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=United Kingdom&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - France",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=France&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "France"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Italy",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Italy&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Italy"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - South Africa",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=South Africa&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "South Africa"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Saudi Arabia",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Saudi Arabia&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Saudi Arabia"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Argentina",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Argentina&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Argentina"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Turkey",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Turkey&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Turkey"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Spain",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Spain&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Spain"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Netherlands",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Netherlands&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Netherlands"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Sweden",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Sweden&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Sweden"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Norway",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Norway&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Norway"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Switzerland",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Switzerland&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Switzerland"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Indicators - Nigeria",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/indicators?country=Nigeria&indicator=GDP&page=1&limit=10&sort_by=Country_Name&order=desc",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "indicators"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Nigeria"
+            },
+            {
+              "key": "indicator",
+              "value": "GDP"
+            },
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "10"
+            },
+            {
+              "key": "sort_by",
+              "value": "Country_Name"
+            },
+            {
+              "key": "order",
+              "value": "desc"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
