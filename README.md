@@ -49,16 +49,6 @@ Sistem diuji dengan **load testing (Locust)** pada tiga skenario beban pengguna:
 
 ---
 
-## 📂 Struktur Proyek
-├── index.js # Main Express server
-├── db.js # Koneksi database (pool)
-├── .env # Konfigurasi kredensial lokal
-├── indicators.sql # SQL untuk pembuatan + insert tabel
-├── worlddevelopmentindicator_postmancollection.json
-└── README.md # Dokumentasi proyek
-
----
-
 ## 🔗 Tautan Penting
 - 📦 Koleksi Postman: [worlddevelopmentindicator_postmancollection.json](https://github.com/auzansyafega/tugasmdik8/blob/main/worlddevelopmentindicator_postmancollection.json)
 - 🎬 Video Demo: [YouTube - Demo Sistem](https://youtu.be/h8qG57KeoOE)
