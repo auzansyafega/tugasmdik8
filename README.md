@@ -58,8 +58,3 @@ Sistem diuji dengan **load testing (Locust)** pada tiga skenario beban pengguna:
 
 ## 🧠 Catatan Akhir
 Sistem ini dirancang untuk menjadi scalable dan mudah diintegrasikan ke berbagai sistem klien (web, mobile, analitik). Hasil uji menunjukkan sistem tangguh untuk beban ringan–menengah, dan siap ditingkatkan ke level enterprise dengan optimasi lanjutan.
-
----
-
-## 📬 Kontak
-Untuk pertanyaan atau klarifikasi, silakan hubungi anggota kelompok melalui LMS atau email ITS masing-masing.
